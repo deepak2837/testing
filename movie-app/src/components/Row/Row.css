@@ -1,0 +1,21 @@
+.row_container{
+    border:10px solid black;
+    height: 30vh;
+    display: flex;
+    /* justify-content:space-around; */
+
+   
+    
+}
+.topratedmovies{
+    font-size: xx-large;
+    font-weight: 700;
+    font-style: italic;
+}
+
+
+.fitimage{
+    object-fit:contain;
+    padding-right: 5px;
+    /* border: 10px solid black; */
+}

@@ -1,0 +1,9 @@
+.banner_contents{
+    top:20%;
+
+    position: absolute;
+}
+.main-image{
+    width:100vw;
+    height:60vh;
+}
